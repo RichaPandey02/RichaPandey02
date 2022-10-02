@@ -7,19 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Realtime Pizza Order Delevery app**
+- 🔭 I’m currently working on **Angular as a front-end developer**
 
-- 🌱 I’m currently learning **Angular React**
+- 🌱 I’m currently learning **Angular Node MongoDB and Express**
 
 - 🤝 I’m looking for help with [Deep Learning](Sequence to Sequence Learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivamsharma009?tab=repositories](https://github.com/Shivamsharma009?tab=repositories)
 
-- 📝 I regularly write articles on [Youtube](https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q)
 
 - 💬 Ask me about **Node Express MongoDB**
 
-- 📫 How to reach me **shivamsharma0501@gmail.com**
+- 📫 How to reach me **richapandey0297@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uD5AZChb_Ft0TXd15CQBPQ6V2C_R2lX7/view?usp=sharing](https://drive.google.com/file/d/1uD5AZChb_Ft0TXd15CQBPQ6V2C_R2lX7/view?usp=sharing)
 
