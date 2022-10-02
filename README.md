@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Angular as a front-end developer**
+- 🔭 I’m currently working on **Angular as a front-end developer**.
 
-- 🌱 I’m currently learning **Angular Node MongoDB and Express**
+- 🌱 I’m currently learning **Angular Node MongoDB and Express**.
 
-- 🤝 I’m looking for help with [Deep Learning](Sequence to Sequence Learning)
+- 🤝 I’m looking for help with cloud platform learning.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivamsharma009?tab=repositories](https://github.com/Shivamsharma009?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/RichaPandey02?tab=repositories].
 
 
-- 💬 Ask me about **Node Express MongoDB**
+- 💬 Ask me about ** Angular Node Express MongoDB and css**
 
 - 📫 How to reach me **richapandey0297@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-sharma-9b708a174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivam-sharma-9b708a174/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richa-pandey-184261181"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivam-sharma-9b708a174/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" height="30" width="40" /></a>
 </p>
 
