@@ -20,14 +20,14 @@
 
 - 📫 How to reach me **richapandey0297@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uD5AZChb_Ft0TXd15CQBPQ6V2C_R2lX7/view?usp=sharing](https://drive.google.com/file/d/1uD5AZChb_Ft0TXd15CQBPQ6V2C_R2lX7/view?usp=sharing)
+- 📄 Know about my experiences [#](#)
 
 - ⚡ Fun fact **I'm Half Finish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/richa-pandey-184261181"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivam-sharma-9b708a174/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richa-pandey-184261181"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/richa-pandey-184261181/" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCNRHxbJqHMzlPlvgc8JYp9Q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
